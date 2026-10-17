@@ -1,0 +1,8 @@
+*.log
+/uploads/employees/
+/uploads/bulk/
+/uploads/events/
+dbschema.txt
+codegenerate.txt
+imc_code.txt
+*.txt
